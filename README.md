@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Clayton</h1>
 
-- 🌱 Atualmente estou estudando React
+- 🌱 Atualmente estou estudando Typescript.
 - 👯 Procuro me tornar um desenvolvedor FullStack
 
 <div style="display: inline_block"><br>
