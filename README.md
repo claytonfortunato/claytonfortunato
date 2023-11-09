@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Clayton</h1>
 
-- 🌱 Atualmente estou estudando Node JS, Express e MongoDB.
+- 🌱 Atualmente estou estudando Next e MySQL.
 - 👯 Procuro me tornar um desenvolvedor FullStack
 
 <div style="display: inline_block"><br>
